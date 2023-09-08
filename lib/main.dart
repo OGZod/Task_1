@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hngx/tasks/task1/task_1.dart';
+import 'package:hngx/task_1.dart';
 
 void main() {
   runApp(const MyApp());

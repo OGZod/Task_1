@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hngx/tasks/task1/task_1.dart';
+import 'package:hngx/task_1.dart';
 
 void main() {
   group('Task1 widget', () {
